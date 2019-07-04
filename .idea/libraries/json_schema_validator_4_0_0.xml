@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="json-schema-validator-4.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/activation-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/mailapi-1.4.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/guava-16.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/uri-template-0.9.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/msg-simple-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/btf-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/jsr305-3.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/joda-time-2.9.7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/rhino-1.7.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/libphonenumber-8.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/json-schema-validator-2.2.10.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/json-schema-core-1.2.10.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/jopt-simple-5.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/jackson-coreutils-1.9.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/jackson-databind-2.9.8.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/jackson-core-2.9.8.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/hamcrest-core-2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/json-schema-validator-4.0.0-deps/hamcrest-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/docs/json-schema-validator-4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/json-schema-validator-4.0.0-dist/docs/json-schema-validator-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

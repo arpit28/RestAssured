@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="hamcrest-2.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/scala-support-4.0.0-dist/scala-support-4.0.0-deps/hamcrest-2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/scala-support-4.0.0-dist/scala-support-4.0.0-deps/org.apache.sling.javax.activation-0.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/scala-support-4.0.0-dist/scala-support-4.0.0-deps/jaxb-osgi-2.2.10.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/scala-support-4.0.0-dist/scala-support-4.0.0-deps/scala-library-2.12.7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/scala-support-4.0.0-dist/scala-support-4.0.0-deps/jaxb-api-2.2.12.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/scala-support-4.0.0-dist/scala-support-4.0.0-deps/activation-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/scala-support-4.0.0-dist/scala-support-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/RestAssured/scala-support-4.0.0-dist/scala-support-4.0.0-deps/jaxb-osgi-2.2.10.jar!/" />
+    </SOURCES>
+  </library>
+</component>
